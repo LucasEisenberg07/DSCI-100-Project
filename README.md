@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI 100 Project
+Repository for hosting Lucas Eisenberg's DSCI 100 final Project. 
